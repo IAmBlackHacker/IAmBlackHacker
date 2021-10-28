@@ -1,4 +1,9 @@
-### Hi there 👋
+### I'm Werths 👋
+ 
+<a href="https://www.facebook.com/B14CKH4K3R"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/prenoramance/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<!--
+<a href="https://www.linkedin.com/in/lokesh-bhoyar-92b1b9127/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 <!--
 **IAmBlackHacker/IAmBlackHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
